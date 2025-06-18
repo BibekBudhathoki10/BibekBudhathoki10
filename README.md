@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibek Budhathoki</h1>
-<h3 align="center">A passionate WEB developer from Nepal. A talented web developer with wide-range knowledge and recognized as a ability to solve both technical and developing challenges. Responsible for the efficient delivery of comprehensive web programs.</h3>
+<h3 align="center"> A talented web developer with wide-range knowledge and recognized as a ability to solve both technical and developing challenges. Responsible for the efficient delivery of comprehensive web programs.</h3>
 
 - 🔭 I’m currently sudying on **Itahari International College**
 
